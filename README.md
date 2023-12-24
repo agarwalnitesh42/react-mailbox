@@ -2,18 +2,17 @@
 
 A versatile React component library for handling mailboxes, including a customizable Mailbox component, Sidebar, Email List, and Email Details components.
 
-![Mailbox Preview](https://example.com/mailbox-preview.png)
+![Mailbox Preview](https://github.com/agarwalnitesh42/react-mailbox/blob/main/src/assets/react-mailbox-screenshot.png)
 
 ## Installation
 
 ```bash
-npm install your-react-mailbox-library
+npm install react-mailbox
 ```
 ## Usage
 
 ```bash
-import { Mailbox } from 'your-react-mailbox-library';
-import 'your-react-mailbox-library/dist/index.css';
+import { Mailbox } from 'react-mailbox';
 
 const emails = [
   // Your email data here...
