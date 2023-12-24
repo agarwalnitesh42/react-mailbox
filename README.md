@@ -1,4 +1,4 @@
-# Your React Mailbox Component Library
+# react-mailbox
 
 A versatile React component library for handling mailboxes, including a customizable Mailbox component, Sidebar, Email List, and Email Details components.
 
